@@ -1,0 +1,44 @@
+2.3 To DO
+
+Patent: VOD Synchronization
+
+IBM WebSphere Patches
+
+DPCP - https://issues.apache.org/jira/browse/DBCP-28
+
+IMPORT
+
+One less frame in Charon.
+
+http://bugs.sakaiproject.org/jira/browse/SAK-5295
+group aware entity notification being sent to entire site
+
+http://bugs.sakaiproject.org/jira/browse/SAK-6126
+xs:anyURI no longer works as of 2.2.1
+
+http://bugs.sakaiproject.org/jira/browse/SAK-6013
+Cannot add extra instances of form elements whos maxOccurs="unbounded"
+
+Search URLs
+
+Beacon
+
+Refactor FCK Editor
+
+Left-hand Menu Should be Permission Sensitive
+http://bugs.sakaiproject.org/jira/browse/SAK-4120
+
+Provisional Tools
+http://bugs.sakaiproject.org/jira/browse/SAK-6218
+
+sitestats - provisional
+user membership - provisional
+roster - Provisional until refactor of privacy
+T&Q - Provisional until performacne seems stable in productions
+rwiki - Full
+calendar - full
+podcasts - provisional
+linktool - provisional
+jforum - provisional
+blogger - ??
+mailtool - ??
