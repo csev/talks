@@ -1,0 +1,13 @@
+
+work001 / Work001#
+
+http://www.dr-chuck.com/a/
+
+http://173.204.22.242/moodle22/
+	admin/IMSC#
+http://173.204.22.242:8080/portal
+http://173.204.22.242/lti/cert/toolsetup.php
+http://173.204.22.242/lti/index.htm
+http://173.204.22.242/lms/
+
+http://www.imsglobal.org/developers/LTI/test/
