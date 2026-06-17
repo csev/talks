@@ -1,0 +1,33 @@
+What are the leading badging (i.e. credentials) minting software in use connected to an LMS in higher education?
+
+Parchment / Badgr / Canvas
+Credly / Pearson
+Acccredible 
+Moodle-built-in
+Open Badge Factory (not Open Source)
+
+https://www.dr-chuck.com/obi-sample/
+
+Give me a brief history of Open Badges from the original work in Mozilla to 1EdTech and OBI3
+
+2012 Mozilla Open Badges 1.0 - Baked PNGS
+2016 IMS OBI 1.0 - Baked PNGs
+2018 OBI 2.0 - JSON Assertions
+2024 OBI 3.0 - W3C Verifiable Credentials - https://www.w3.org/TR/vc-overview/
+
+Dr. Chuck's Badge Journey
+https://www.dr-chuck.com/obi-sample/
+Tsugi - OBI2 / OBI3 / LinkedIn
+
+Briefly summarise the history of portfolios in LMS systems - talk about the OSP project in Sakai Mahara in Moodle and any other widely adopted systems
+
+OSP inside Sakai 2003-2016 (Sakai 11)
+Moodle / Mahara 
+Canvas had a native portfolio that will retired in 2012-2026.  Portfolium.
+Blackboard built in "Portfolios" - also Anthology Portfolios (Chalk and Wire)
+PebblePad - Outside
+
+
+Tsugi -> Cred Trail - https://credtrail.org/
+
+Sakai JIRA - https://sakaiproject.atlassian.net/browse/SAK-52583
